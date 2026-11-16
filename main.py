@@ -9,6 +9,7 @@ from utils.collision import check_collision
 
 
 def main():
+    # comentario x
     pygame.init()
     pygame.font.init()
 
