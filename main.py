@@ -9,10 +9,9 @@ from utils.collision import check_collision
 
 
 def main():
-    # comentario x
     pygame.init()
     pygame.font.init()
-
+    # comentario y
     screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
     pygame.display.set_caption(WINDOW_TITLE)
 
