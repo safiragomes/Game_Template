@@ -6,6 +6,7 @@ A organização separa os arquivos do projeto por responsabilidade, facilitando 
 
 ## Estrutura do Projeto
 
+
 ```txt
 python-game-template/
 │
